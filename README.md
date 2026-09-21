@@ -25,13 +25,4 @@ Enter graph filename: ../data/Wgraph1.txt
 
 Vertices are numbers 1-13 when you type them in but get printed as letters A-M, just to match the diagrams in the report.
 
-## folder structure
-
-```
-graph-algorithms/
-├── src/          GraphAdjList.java, Kruskal.java
-├── data/         test graph (Wgraph1.txt)
-└── docs/         full report + the diagram above
-```
-
 Joel Manoj John, TU Dublin BSc Computer Science, CMPU2001
